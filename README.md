@@ -1,2 +1,2 @@
 # passbolt_troubleshooting
-Troubleshooting question flow to aide in finding resources and explanations
+Troubleshooting question flow which complements the Passbolt forum and help sites and aides in finding resources and explanations
